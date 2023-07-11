@@ -1,0 +1,7 @@
+a=float(input("ENTER A NUMBER : "))
+b=float(input("ENTER ANOTHER NUMBER : "))
+print("SUM OF ",a,"and",b,"IS",(a+b))
+print("DIFFERENCE OF ",a,"AND",b,"IS",(a-b))
+print("PRODUCT OF ",a,"AND",b,"IS",(a*b))
+print("RATIO OF ",a,"AND",b,"IS",(a/b))
+print(a,"MODULUS",b,"IS",(a%b))
